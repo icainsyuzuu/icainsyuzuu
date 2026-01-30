@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**icainsyuzuu/icainsyuzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ML Engineer & AI Enthusiast 🇮🇩
 
-Here are some ideas to get you started:
+Building impactful AI solutions through data-driven approaches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, C++
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Focus:** Machine Learning, Data Processing, Model Optimization
+
+### 🚀 What I Do
+- Develop ML models and AI solutions
+- Lead technical projects and teams
+- Transform complex data into insights
+
+### 📫 Connect
+- LinkedIn: www.linkedin.com/in/insyuzuu-cahyani-aisyah
+
+---
+*Passionate about creating innovative solutions for real-world problems*
